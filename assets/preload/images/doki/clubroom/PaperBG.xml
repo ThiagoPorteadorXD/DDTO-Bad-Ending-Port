@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PaperBG.png">
+<SubTexture name="PaperBG0000" x="0" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0001" x="0" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0002" x="0" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0003" x="0" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0004" x="0" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0005" x="0" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0006" x="864" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0007" x="864" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0008" x="864" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0009" x="864" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0010" x="864" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0011" x="864" y="0" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0012" x="0" y="478" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0013" x="0" y="478" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0014" x="0" y="478" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0015" x="0" y="478" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0016" x="0" y="478" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+<SubTexture name="PaperBG0017" x="0" y="478" width="864" height="478" frameX="0" frameY="0" frameWidth="864" frameHeight="478" />
+</TextureAtlas>
