@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HomeStatic.png">
+	
+	
+	<SubTexture name="HomeStatic0000" x="2" y="2" width="960" height="540" />
+	<SubTexture name="HomeStatic0001" x="2" y="2" width="960" height="540" />
+	<SubTexture name="HomeStatic0002" x="965" y="2" width="960" height="540" />
+	<SubTexture name="HomeStatic0003" x="965" y="2" width="960" height="540" />
+	<SubTexture name="HomeStatic0004" x="2" y="545" width="960" height="540" />
+	<SubTexture name="HomeStatic0005" x="2" y="545" width="960" height="540" />
+	<SubTexture name="HomeStatic0006" x="965" y="545" width="960" height="540" />
+	<SubTexture name="HomeStatic0007" x="965" y="545" width="960" height="540" />
+	<SubTexture name="HomeStatic0008" x="2" y="1087" width="960" height="540" />
+	<SubTexture name="HomeStatic0009" x="2" y="1087" width="960" height="540" />
+	<SubTexture name="HomeStatic0010" x="965" y="1087" width="960" height="540" />
+	<SubTexture name="HomeStatic0011" x="965" y="1087" width="960" height="540" />
+</TextureAtlas>
