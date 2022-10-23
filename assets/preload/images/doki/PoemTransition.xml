@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PoemTransition.png">
+	
+	
+	<SubTexture name="poemtransition0000" x="5" y="5" width="23" height="39" frameX="-290" frameY="-161" frameWidth="640" frameHeight="360" />
+	<SubTexture name="poemtransition0001" x="5" y="5" width="23" height="39" frameX="-290" frameY="-161" frameWidth="640" frameHeight="360" />
+	<SubTexture name="poemtransition0002" x="33" y="5" width="67" height="75" frameX="-275" frameY="-141" frameWidth="640" frameHeight="360" />
+	<SubTexture name="poemtransition0003" x="33" y="5" width="67" height="75" frameX="-275" frameY="-141" frameWidth="640" frameHeight="360" />
+	<SubTexture name="poemtransition0004" x="105" y="5" width="97" height="107" frameX="-258" frameY="-131" frameWidth="640" frameHeight="360" />
+	<SubTexture name="poemtransition0005" x="105" y="5" width="97" height="107" frameX="-258" frameY="-131" frameWidth="640" frameHeight="360" />
+	<SubTexture name="poemtransition0006" x="208" y="5" width="285" height="241" frameX="-166" frameY="-66" frameWidth="640" frameHeight="360" />
+	<SubTexture name="poemtransition0007" x="208" y="5" width="285" height="241" frameX="-166" frameY="-66" frameWidth="640" frameHeight="360" />
+	<SubTexture name="poemtransition0008" x="498" y="5" width="482" height="358" frameX="-66" frameY="0" frameWidth="640" frameHeight="360" />
+	<SubTexture name="poemtransition0009" x="498" y="5" width="482" height="358" frameX="-66" frameY="0" frameWidth="640" frameHeight="360" />
+	<SubTexture name="poemtransition0010" x="985" y="5" width="640" height="360" />
+	<SubTexture name="poemtransition0011" x="985" y="5" width="640" height="360" />
+	<SubTexture name="poemtransition0012" x="5" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0013" x="5" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0014" x="650" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0015" x="650" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0016" x="985" y="5" width="640" height="360" />
+	<SubTexture name="poemtransition0017" x="985" y="5" width="640" height="360" />
+	<SubTexture name="poemtransition0018" x="5" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0019" x="5" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0020" x="650" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0021" x="650" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0022" x="985" y="5" width="640" height="360" />
+	<SubTexture name="poemtransition0023" x="985" y="5" width="640" height="360" />
+	<SubTexture name="poemtransition0024" x="5" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0025" x="5" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0026" x="650" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0027" x="650" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0028" x="985" y="5" width="640" height="360" />
+	<SubTexture name="poemtransition0029" x="985" y="5" width="640" height="360" />
+	<SubTexture name="poemtransition0030" x="5" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0031" x="5" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0032" x="650" y="370" width="640" height="360" />
+	<SubTexture name="poemtransition0033" x="650" y="370" width="640" height="360" />
+</TextureAtlas>
