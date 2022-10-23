@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Markov Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Markov Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				2
+			],
+			"anim": "end",
+			"fps": 24,
+			"name": "GF Markov End",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-86,
+				-38
+			],
+			"anim": "home",
+			"fps": 24,
+			"name": "GF Home",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DDLCGF_Markov",
+	"position": [
+		-50,
+		130
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
